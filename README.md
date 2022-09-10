@@ -49,3 +49,5 @@ public List<String> getAllJavaDevelopers() throws SQLException
 
 For example, for a given data
 <img src = "jdbc2.png">
+You must receive getAllJavaDevelopers() => [Іра, Іван, Петро] .
+</pre>
